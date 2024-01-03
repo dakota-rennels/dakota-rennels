@@ -220,7 +220,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 
 ## 📦 Repositories
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&resume_CV)](https://github.com/dakota-rennels/resume_CV)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=resume_CV)](https://github.com/dakota-rennels/resume_CV)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=Certifications)](https://github.com/dakota-rennels/Certifications)
 &nbsp; &nbsp;
