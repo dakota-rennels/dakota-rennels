@@ -14,7 +14,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=Python-Notebooks)](https://github.com/dakota-rennels/Python-Notebooks)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=dakota-rennels.github.io)](https://github.com/dakota-rennels/dakota-rennels.gthub.io)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=dakota-rennels.github.io)](https://github.com/dakota-rennels/dakota-rennels.github.io)
 
 ## 📨 Social & Contact
 
