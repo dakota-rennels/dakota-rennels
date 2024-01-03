@@ -49,7 +49,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   &nbsp; &nbsp;
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.ibm.com/docs/en/i/7.2?topic=programming-sql" target="_blank" rel="noreferrer"> <img src="assets/img/sql-icon.svg" alt="sql" width="40" height="40" /> </a>
+  <a href="https://www.ibm.com/docs/en/i/7.2?topic=programming-sql" target="_blank" rel="noreferrer"> <img src="dakota-rennels.github.io/assets/img/sql-icon.svg" alt="sql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
