@@ -3,7 +3,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Aras Güngöre.
+Hi there, my name is **Dakota Rennels**.
 
 I’m a graduate of the University of North Texas with a master’s degree in Advanced Data Analytics with a focus on Deep Learning and AI. I also hold another master's degree in Data Science and a bachelor's degree in Applied Arts and Sciences from the same institution. I spent a majority of my undergraduate journey at the University of Oklahoma and Oklahoma City Community College pursuing Chemical Engineering and Biochemistry. My academic journey seamlessly integrates computer science and engineering, providing me with a strong foundation in machine learning, deep learning, computer vision, software development, and AI systems - all areas that align with my personal interests. This combination of skills allows me to design, build, and deploy innovative solutions that bridge intricate technological gaps and address ciritcal business problems.
 
