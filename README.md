@@ -14,7 +14,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=Python-Notebooks)](https://github.com/dakota-rennels/Python-Notebooks)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=dakota-rennels.github.io)](https://github.com/dakota-rennels/dakota-rennels.github.io)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=dakota-rennels.github.io)](https://github.com/dakota-rennels/dakota-rennels.gthub.io)
 
 ## 📨 Social & Contact
 
@@ -147,7 +147,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 
 ### 📚 Libraries
 
-<div align="left">
+<div align="center">
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a>
@@ -217,14 +217,10 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 
 
 
-<!--
+
 ## 📦 Repositories
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&resume_CV)](https://github.com/dakota-rennels/resume_CV)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=BERT-base-Turkish-QA)](https://github.com/arasgungore/BERT-base-Turkish-QA)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=Certifications)](https://github.com/dakota-rennels/Certifications)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=LittleLemon)](https://github.com/arasgungore/LittleLemon)
-&nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
--->
