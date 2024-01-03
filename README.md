@@ -1,4 +1,4 @@
-# Welcome to my GitHub page 👋
+# Welcome to my GitHub 👋
 
 
 ## 👤 About Me
@@ -131,7 +131,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   &nbsp; &nbsp;
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="apache_spark" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="assets/img/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40" /> </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="assets/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://cloud.google.com/bigquery?hl=en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40" /> </a>
   &nbsp; &nbsp;
@@ -145,7 +145,6 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 </div>
 
 
-<!--
 ### 📚 Libraries
 
 <div align="left">
@@ -167,7 +166,6 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
 </div>
--->
 
 
 
