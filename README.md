@@ -49,7 +49,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   &nbsp; &nbsp;
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.ibm.com/docs/en/i/7.2?topic=programming-sql" target="_blank" rel="noreferrer"> <img src="dakota-rennels.github.io/assets/img/sql-icon.svg" alt="sql" width="40" height="40" /> </a>
+  <a href="https://www.ibm.com/docs/en/i/7.2?topic=programming-sql" target="_blank" rel="noreferrer"> <img src="assets/sql-icon.svg" alt="sql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
@@ -131,7 +131,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
 </div>
-
+-->
 
 
 
@@ -140,15 +140,15 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=arasgungore&hide_border=true&show_icons=true&count_private=true" alt="Aras Güngöre's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=dakota-rennels&hide_border=true&show_icons=true&count_private=true" alt="Dakota Rennels' GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasgungore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakota-rennels&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=arasgungore&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=dakota-rennelse&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Dakota Rennels' GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
@@ -157,29 +157,29 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 <table>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arasgungore&theme=default" alt="Aras Güngöre's Profile Details" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakota-rennels&theme=default" alt="Dakota Rennels' Profile Details" /> </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arasgungore&theme=default" alt="Top Languages by Repo" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dakota-rennels&theme=default" alt="Top Languages by Repo" /> </a>
     </td>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arasgungore&theme=default" alt="Top Languages by Commit" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dakota-rennels&theme=default" alt="Top Languages by Commit" /> </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arasgungore&theme=default" alt="Stats" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dakota-rennels&theme=default" alt="Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arasgungore&theme=default&utcOffset=8" alt="Commits" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dakota-rennels&theme=default&utcOffset=8" alt="Commits" /> </a>
     </td>
   </tr>
 </table>
 -->
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dakota-rennels&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -193,12 +193,4 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=LittleLemon)](https://github.com/arasgungore/LittleLemon)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
--->
-
-
-<!--
-## 🐍 Contribution Graph
-
-![Snake Game](https://github.com/arasgungore/arasgungore/blob/output/github-snake.gif)
--->
 -->
