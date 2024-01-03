@@ -12,6 +12,8 @@ I currently work as an impact-oriented Data Scientist for the State of Oklahoma 
 
 Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https://github.com/dakota-rennels/resume_CV/blob/main/Dakota_Rennels_Resume_Data_Science.pdf), and [Python Projects](https://github.com/dakota-rennels/Python-Notebooks) to learn more about me and my projects.
 
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=dakota-rennels.github.io)](https://github.com/dakota-rennels/dakota-rennels.github.io)
+&nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=dakota-rennels&repo=Python-Notebooks)](https://github.com/dakota-rennels/Python-Notebooks)
 &nbsp; &nbsp;
 
