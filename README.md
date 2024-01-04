@@ -193,15 +193,15 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 <table>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakota-rennels&theme=default" alt="Dakota Rennels' Profile Details" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakota-rennels&theme=dark" alt="Dakota Rennels' Profile Details" /> </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dakota-rennels&theme=default" alt="Top Languages by Repo" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dakota-rennels&theme=dark" alt="Top Languages by Repo" /> </a>
     </td>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dakota-rennels&theme=default" alt="Top Languages by Commit" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dakota-rennels&theme=dark" alt="Top Languages by Commit" /> </a>
     </td>
   </tr>
   <tr>
