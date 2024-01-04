@@ -206,7 +206,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dakota-rennels&theme=default" alt="Stats" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dakota-rennels&theme=dark" alt="Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dakota-rennels&theme=default&utcOffset=8" alt="Commits" /> </a>
