@@ -167,7 +167,12 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
-</div>
+  &nbsp; &nbsp;
+  <a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src="assets/img/skills/beautiful_soup.svg" alt="beautiful_soup" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://faker.readthedocs.io/en/master/" target="_blank" rel="noreferrer"> <img src="assets/img/skills/faker_python.svg" alt="faker" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+ </div>
 
 
 
