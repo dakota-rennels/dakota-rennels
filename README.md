@@ -189,7 +189,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="[https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=dakota-rennels&theme=dark" alt="Dakota Rennels' GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=dakota-rennels&theme=dark" alt="Dakota Rennels' GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
