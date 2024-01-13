@@ -189,7 +189,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dakota-rennels&theme=gruvbox&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dakota-rennels&theme=gruvbox&hide_border=true&mode=weekly" alt="Dakota's GitHub Streak" /></a>
     </td>
   </tr>
 </table>
@@ -221,7 +221,6 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 -->
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=dakota-rennels&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dakota-rennels&title=Stars&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
