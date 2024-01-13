@@ -187,11 +187,14 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakota-rennels&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
   </tr>
+  <!--
   <tr>
     <td colspan=2 align="center">
       <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=dakota-rennels&theme=dark" alt="Dakota Rennels' GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
+  -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=dakota-rennels)](https://git.io/streak-stats)
 </table>
 
 <!--
