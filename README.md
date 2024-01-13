@@ -221,7 +221,7 @@ Check out my [portfolio](https://dakota-rennels.github.io/), [Resume/CV](https:/
 -->
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=dakota-rennels&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dakota-rennels&title=MultipleLang&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dakota-rennels&title=Star&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
